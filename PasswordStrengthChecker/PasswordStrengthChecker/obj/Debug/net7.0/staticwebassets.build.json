@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T3L375hsHIUjxZb5U3tIUmuB0v9Qr9nNdoXAspZY6cU=",
+  "Source": "PasswordStrengthChecker",
+  "BasePath": "_content/PasswordStrengthChecker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
